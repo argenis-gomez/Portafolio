@@ -29,8 +29,7 @@ El proyecto incluye una plataforma que permite generar rostros artificiales y de
 * Las imágenes tienen una resolución de 128x128.
 * El modelo se entrenó por 300 epocas.
 
-![Proyecto 2](images/Proyecto2_2.png)
-![Proyecto 2](images/Proyecto2.png)
+<img src="images/Proyecto2_2.png" width="460" height="440"> <img src="images/Proyecto2.png" width="440" height="440">
 
 ### [Proyecto 3: Clasificador de animales](https://github.com/argenis-gomez/Clasificador-de-animales)
 
