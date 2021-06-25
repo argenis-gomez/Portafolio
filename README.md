@@ -17,6 +17,7 @@ A través de una arquitectura Pix2Pix agregaremos color a imágenes en blanco y 
 
 ![Proyecto 1](images/Proyecto1.png)
 ![Proyecto 1](images/Proyecto1_2.png)
+![Proyecto 1](images/Proyecto1_3.png)
 
 ### [Proyecto 2: Fake Faces](https://github.com/argenis-gomez/Fake-Faces)
 
