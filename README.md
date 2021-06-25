@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+---
+# Portafolio personal de proyectos de Deep Learning
 
-You can use the [editor on GitHub](https://github.com/argenis-gomez/Portafolio-DL/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Mi nombre es Argenis Gómez. Soy Ingeniero en Telecomunicaciones y Data Scientist residente en Argentina.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+He desarrollado habilidades de Machine Learning y Deep Learning y estoy certificado en Tensorflow. ([_Link a certificado_](https://www.credential.net/313eb6f7-4a64-4ce0-b20f-62625d615898))
 
-### Markdown
+Entre mis principales cualidades está el trabajo en equipo, el profesionalismo y el entusiasmo para siempre seguir creciendo personalmente y profesional.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## Proyecto 1: Clasificador de animales
 
-# Header 1
-## Header 2
-### Header 3
+## Proyecto 2: Clasificador de motos
 
-- Bulleted
-- List
+## Proyecto 3: Clasificador de tweets
 
-1. Numbered
-2. List
+## Proyecto 4: Traductor
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/argenis-gomez/Portafolio-DL/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Proyecto 5: Assault
