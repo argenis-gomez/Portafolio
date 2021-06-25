@@ -1,4 +1,4 @@
-## Portafolio personal de proyectos de Deep Learning
+## Portafolio - Proyectos en Deep Learning
 
 Mi nombre es Argenis Gómez. Soy Ingeniero en Telecomunicaciones y Data Scientist residente en Argentina.
 
@@ -7,12 +7,16 @@ He desarrollado habilidades de Machine Learning y Deep Learning y estoy certific
 Entre mis principales cualidades está el trabajo en equipo, el profesionalismo y el entusiasmo para siempre seguir creciendo personalmente y profesional.
 
 
-### Proyecto 1: Clasificador de animales
+### [Proyecto 1: Imágenes de blanco y negro a color](https://github.com/argenis-gomez/Imagenes-BN-a-Color.git)
 
-### Proyecto 2: Clasificador de motos
+### [Proyecto 2: Fake Faces](https://github.com/argenis-gomez/Fake-Faces)
 
-### Proyecto 3: Clasificador de tweets
+### [Proyecto 3: Clasificador de animales](https://github.com/argenis-gomez/Clasificador-de-animales)
 
-### Proyecto 4: Traductor
+### [Proyecto 4: Traductor](https://github.com/argenis-gomez/Traductor)
 
-### Proyecto 5: Assault
+### [Proyecto 5: Clasificador de tweets](https://github.com/argenis-gomez/Clasificador-de-Tweets)
+
+### [Proyecto 6: Clasificador de motos](https://github.com/argenis-gomez/Clasificador-de-motos)
+
+### [Proyecto 7: Assault](https://github.com/argenis-gomez/Assault)
