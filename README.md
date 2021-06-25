@@ -1,4 +1,4 @@
-## Portafolio - Proyectos en Deep Learning
+## Argenis Gómez - Proyectos en Deep Learning
 
 Mi nombre es Argenis Gómez. Soy Ingeniero en Telecomunicaciones y Data Scientist residente en Argentina.
 
@@ -8,6 +8,15 @@ Entre mis principales cualidades está el trabajo en equipo, el profesionalismo 
 
 
 ### [Proyecto 1: Imágenes de blanco y negro a color](https://github.com/argenis-gomez/Imagenes-BN-a-Color.git)
+#### Descripción:
+A través de una arquitectura Pix2Pix agregaremos color a imágenes en blanco y negro.
+
+* Se tomaron imágenes a color aleatoreamente de Google y se convirtieron a escala de grises para ser usadas como input del modelo.
+* Se utilizaron 6000 imágenes con dimensiones de 256x256.
+* El modelo fue entrenado por 100 épocas, obteniendo resultados bastante satisfactorios.
+
+![Proyecto 1](images/Proyecto1.png)
+![Proyecto 1](images/Proyecto1_2.png)
 
 ### [Proyecto 2: Fake Faces](https://github.com/argenis-gomez/Fake-Faces)
 
