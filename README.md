@@ -1,4 +1,3 @@
----
 # Portafolio personal de proyectos de Deep Learning
 
 Mi nombre es Argenis Gómez. Soy Ingeniero en Telecomunicaciones y Data Scientist residente en Argentina.
@@ -7,7 +6,6 @@ He desarrollado habilidades de Machine Learning y Deep Learning y estoy certific
 
 Entre mis principales cualidades está el trabajo en equipo, el profesionalismo y el entusiasmo para siempre seguir creciendo personalmente y profesional.
 
----
 
 ## Proyecto 1: Clasificador de animales
 
