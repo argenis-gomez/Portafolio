@@ -1,9 +1,7 @@
 ## Argenis Gómez - Proyectos en Deep Learning
 
 Mi nombre es Argenis Gómez. Soy Ingeniero en Telecomunicaciones y Data Scientist residente en Argentina.
-
 He desarrollado habilidades en Deep Learning y estoy certificado en Tensorflow. ([_Link a certificado_](https://www.credential.net/313eb6f7-4a64-4ce0-b20f-62625d615898))
-
 Entre mis principales cualidades está el trabajo en equipo, el profesionalismo y el entusiasmo para siempre seguir creciendo profesionalmente.
 
 
@@ -20,6 +18,7 @@ A través de una arquitectura Pix2Pix agregaremos color a imágenes en blanco y 
 ![Proyecto 1](images/Proyecto1_3.png)
 
 ### [Proyecto 2: Fake Faces](https://github.com/argenis-gomez/Fake-Faces)
+
 
 ### [Proyecto 3: Clasificador de animales](https://github.com/argenis-gomez/Clasificador-de-animales)
 
