@@ -2,9 +2,9 @@
 
 Mi nombre es Argenis Gómez. Soy Ingeniero en Telecomunicaciones y Data Scientist residente en Argentina.
 
-He desarrollado habilidades de Machine Learning y Deep Learning y estoy certificado en Tensorflow. ([_Link a certificado_](https://www.credential.net/313eb6f7-4a64-4ce0-b20f-62625d615898))
+He desarrollado habilidades en Deep Learning y estoy certificado en Tensorflow. ([_Link a certificado_](https://www.credential.net/313eb6f7-4a64-4ce0-b20f-62625d615898))
 
-Entre mis principales cualidades está el trabajo en equipo, el profesionalismo y el entusiasmo para siempre seguir creciendo personalmente y profesional.
+Entre mis principales cualidades está el trabajo en equipo, el profesionalismo y el entusiasmo para siempre seguir creciendo profesionalmente.
 
 
 ### [Proyecto 1: Imágenes de blanco y negro a color](https://github.com/argenis-gomez/Imagenes-BN-a-Color.git)
