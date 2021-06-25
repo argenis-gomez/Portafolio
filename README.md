@@ -27,9 +27,9 @@ El proyecto incluye una plataforma que permite generar rostros artificiales y de
 
 * Se utilizaron 40000 imágenes del dataset CelebA.
 * Las imágenes tienen una resolución de 128x128.
-* El modelo se entrenó por 300 epocas...
+* El modelo se entrenó por 300 epocas.
 
-<img src="images/Proyecto2_2.png" width="400" height="380"> <img src="images/Proyecto2.png" width="380" height="380">
+<img src="images/Proyecto2_2.png" width="465" height="345"> <img src="images/Proyecto2.png" width="345" height="345">
 
 ### [Proyecto 3: Clasificador de animales](https://github.com/argenis-gomez/Clasificador-de-animales)
 
