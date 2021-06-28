@@ -9,9 +9,11 @@ Entre mis principales cualidades está el trabajo en equipo, el profesionalismo 
 ---
 
 ## Proyectos principales
-1. [Traductor](https://github.com/argenis-gomez/Traductor)
-2. [Clasificador de motos](https://github.com/argenis-gomez/Clasificador-de-motos)
-3. [Assault](https://github.com/argenis-gomez/Assault)
+**1. [Traductor](https://github.com/argenis-gomez/Traductor)**
+
+**2. [Clasificador de motos](https://github.com/argenis-gomez/Clasificador-de-motos)**
+
+**3. [Assault](https://github.com/argenis-gomez/Assault)**
 
 ---
 ## Todos mis proyectos
