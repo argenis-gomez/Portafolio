@@ -74,9 +74,27 @@ Se creó una plataforma con Streamlit que permite ingresar el Tweet en inglés y
 ---
 
 ### [Proyecto 6: Clasificador de motos](https://github.com/argenis-gomez/Clasificador-de-motos)
+#### Descripción:
+Utilizando una arquitectura Xception se desarrolló un clasificador de motos.
+
+Se creó una plataforma en Streamlit que permite cargar imágenes y clasificarlas en 9 clases diferentes. La plataforma tiene un sistema de feedback que permite al usuario verificar si la imagen fue clasificada correctamente y las guarda en background para reentrenar el sistema posteriormente.
+
+* Los datos fueron scrapeados de MercadoLibre utilizando Scrapy. Se obtuvieron aproximadamente 15000 imágenes entre las diferentes clases.
+* El clasificador funciona con 9 clases (Calle, Chopper, Cross, Cuatriciclos, Deportivas, Enduro, Naked, Scooters y Touring).
+* Utilizando Keras-Tuner se obtuvieron los mejores parámetros para entrenar el modelo.
+* El modelo principal tiene una precisión del 93% en imágenes nuevas.
+
+![Proyecto 6](images/Proyecto6.png)
 
 ---
 
 ### [Proyecto 7: Assault](https://github.com/argenis-gomez/Assault)
+#### Descripción:
+Usando DQN, se entrenó un agente que aprendió a jugar el juego de Atari 2600 Assault.
+
+* El agente fue entrenado por 100 episodios.
+* El agente es capaz de alcanzar una recompensa de 400+.
+
+![Proyecto 7](images/Proyecto7.gif)
 
 ---
