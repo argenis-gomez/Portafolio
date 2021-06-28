@@ -7,7 +7,14 @@ He desarrollado habilidades en Deep Learning y estoy certificado en Tensorflow. 
 Entre mis principales cualidades está el trabajo en equipo, el profesionalismo y el entusiasmo para siempre seguir creciendo profesionalmente.
 
 ---
-## Mis proyectos
+
+## Proyectos principales
+1. Traductor
+2. Clasificador de motos
+3. Assault
+
+---
+## Todos mis proyectos
 
 ### [Proyecto 1: Imágenes de blanco y negro a color](https://github.com/argenis-gomez/Imagenes-BN-a-Color.git)
 #### Descripción:
@@ -98,3 +105,6 @@ Usando DQN, se entrenó un agente que aprendió a jugar el juego de Atari 2600 A
 ![Proyecto 7](images/Proyecto7.gif)
 
 ---
+## Contacto
+* LinkedIn - [Argenis Gómez](https://www.linkedin.com/in/argenisgomez/)
+* GitHub - [argenis-gomez](https://github.com/argenis-gomez)
