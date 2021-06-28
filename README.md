@@ -7,7 +7,6 @@ He desarrollado habilidades en Deep Learning y estoy certificado en Tensorflow. 
 Entre mis principales cualidades está el trabajo en equipo, el profesionalismo y el entusiasmo para siempre seguir creciendo profesionalmente.
 
 ---
-
 ## Mis proyectos
 
 ### [Proyecto 1: Imágenes de blanco y negro a color](https://github.com/argenis-gomez/Imagenes-BN-a-Color.git)
@@ -21,6 +20,8 @@ A través de una arquitectura Pix2Pix agregaremos color a imágenes en blanco y 
 ![Proyecto 1](images/Proyecto1_2.png)
 ![Proyecto 1](images/Proyecto1_3.png)
 
+---
+
 ### [Proyecto 2: Fake Faces](https://github.com/argenis-gomez/Fake-Faces)
 #### Descripción:
 Utilizando una arquitectura GAN se creó un Generador de rostros artificiales.
@@ -33,6 +34,8 @@ El proyecto incluye una plataforma que permite generar rostros artificiales y de
 
 ![Proyecto 2](images/Proyecto2.png)
 
+---
+
 ### [Proyecto 3: Clasificador de animales](https://github.com/argenis-gomez/Clasificador-de-animales)
 #### Descripción:
 Utilizando una arquitectura EfficientNetB0 se desarrolló un clasificador de animales.
@@ -43,6 +46,8 @@ Se creó una plataforma que permite cargar imágenes de animales y clasificarlas
 * La idea detrás del mecanismo de feedback es guardar las imágenes dadas por el usuario con sus respectivas etiquetas para mejorar el modelo posteriormente.
 
 ![Proyecto 3](images/Proyecto3.png)
+
+---
 
 ### [Proyecto 4: Traductor](https://github.com/argenis-gomez/Traductor)
 #### Descripción:
@@ -56,6 +61,8 @@ Con Steamlit se creó una plataforma que permite ingresar el texto en inglés y 
 
 ![Proyecto 4](images/Proyecto4.png)
 
+---
+
 ### [Proyecto 5: Clasificador de tweets](https://github.com/argenis-gomez/Clasificador-de-Tweets)
 #### Descripción:
 Utilizando Conv1D se desarrolló un clasificador del sentimiento de Tweets en inglés.
@@ -64,6 +71,12 @@ Se creó una plataforma con Streamlit que permite ingresar el Tweet en inglés y
 
 ![Proyecto 5](images/Proyecto5.png)
 
+---
+
 ### [Proyecto 6: Clasificador de motos](https://github.com/argenis-gomez/Clasificador-de-motos)
 
+---
+
 ### [Proyecto 7: Assault](https://github.com/argenis-gomez/Assault)
+
+---
