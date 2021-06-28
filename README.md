@@ -15,7 +15,6 @@ A través de una arquitectura Pix2Pix agregaremos color a imágenes en blanco y 
 * Se utilizaron 6000 imágenes con resolución de 256x256.
 * El modelo fue entrenado por 100 épocas, obteniendo resultados bastante satisfactorios.
 
-![Proyecto 1](images/Proyecto1.png)
 ![Proyecto 1](images/Proyecto1_2.png)
 ![Proyecto 1](images/Proyecto1_3.png)
 
@@ -32,8 +31,26 @@ El proyecto incluye una plataforma que permite generar rostros artificiales y de
 ![Proyecto 2](images/Proyecto2.png)
 
 ### [Proyecto 3: Clasificador de animales](https://github.com/argenis-gomez/Clasificador-de-animales)
+Utilizando una arquitectura EfficientNetB0 se desarrolló un clasificador de animales.
+
+Se creó una plataforma que permite cargar imágenes de animales y clasificarlas. La plataforma tiene un sistema de feedback que permite al usuario verificar si la imagen fue clasificada correctamente.
+
+* El clasificador funciona con 10 tipos de animales (Perros, Gatos, Mariposas, Ardillas, Arañas, Vacas, Elefantes, Gallinas, Ovejas y Caballos).
+* La idea detrás del mecanismo de feedback es guardar las imágenes dadas por el usuario con sus respectivas etiquetas para mejorar el modelo posteriormente.
+
+![Proyecto 3](images/Proyecto3.png)
 
 ### [Proyecto 4: Traductor](https://github.com/argenis-gomez/Traductor)
+Utilizando Transformes se desarrolló un traductor de inglés a español.
+
+Con Steamlit se creó una plataforma que permite ingresar el texto en inglés y luego ser traducido a español.
+
+* El traductor solo traduce de inglés a español, no es capaz de traducir de español a inglés.
+* Al no disponer de suficiente entrenamiento se optó por utilizar un modelo más pequeño que el original.
+* El modelo solo fue entrenado por 20 épocas, por lo tanto aún tiene un margen de mejora.
+
+![Proyecto 4](images/Proyecto4.png)
+
 
 ### [Proyecto 5: Clasificador de tweets](https://github.com/argenis-gomez/Clasificador-de-Tweets)
 
