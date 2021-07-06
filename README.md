@@ -107,6 +107,21 @@ Usando DQN, se entrenó un agente que aprendió a jugar el juego de Atari 2600 A
 ![Proyecto 7](images/Proyecto7.gif)
 
 ---
+
+### [Proyecto 8: Heart attacks prediction](https://github.com/argenis-gomez/Heart-attacks-prediction.git)
+#### Descripción:
+
+Se realizó el análisis exploratorio de los datos, para daterterminar los principales motivos de un ataque al corazón.
+
+* Se utilizó keras-tuner con RandomSearch para determinar los mejores HP.
+* El modelo alcanzó el 90% de precisón sobre el dataset de pruebas.
+
+##### Variables discretas
+![Proyecto 8](images/Proyecto8.png)
+##### Variables continuas
+![Proyecto 8](images/Proyecto8_2.png)
+
+---
 ## Contacto
 * LinkedIn - [Argenis Gómez](https://www.linkedin.com/in/argenisgomez/)
 * GitHub - [argenis-gomez](https://github.com/argenis-gomez)
