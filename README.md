@@ -8,17 +8,24 @@ Entre mis principales cualidades está el trabajo en equipo, el profesionalismo 
 
 ---
 
-## Proyectos destacados
-**1. [Traductor](https://github.com/argenis-gomez/Traductor)**
-
-**2. [Clasificador de motos](https://github.com/argenis-gomez/Clasificador-de-motos)**
-
-**3. [Assault](https://github.com/argenis-gomez/Assault)**
-
----
 ## Todos mis proyectos
 
-### [Proyecto 1: Imágenes de blanco y negro a color](https://github.com/argenis-gomez/Imagenes-BN-a-Color.git)
+---
+
+### [YOLOv5: Real time face detection](https://github.com/argenis-gomez/facedetection.git)
+#### Descripción:
+Utilizando YOLOv5 se creaó un detector de caras y con OpenCV se realizó una aplicación para detectarlas en tiempo real.
+
+* Se etiquetaron las imagenes utilizando la plataforma de [Roboflow](https://roboflow.com/).
+* Fue entrenado con casi 500 imágenes de 512x512 y por apenas 50 epocas.
+
+![FaceDetector](images/FaceDetector.png)
+
+
+
+---
+
+### [Imágenes de blanco y negro a color](https://github.com/argenis-gomez/Imagenes-BN-a-Color.git)
 #### Descripción:
 A través de una arquitectura Pix2Pix agregaremos color a imágenes en blanco y negro.
 
@@ -26,39 +33,12 @@ A través de una arquitectura Pix2Pix agregaremos color a imágenes en blanco y 
 * Se utilizaron 6000 imágenes con resolución de 256x256.
 * El modelo fue entrenado por 100 épocas, obteniendo resultados bastante satisfactorios.
 
-![Proyecto 1](images/Proyecto1_2.png)
-![Proyecto 1](images/Proyecto1_3.png)
+![Blaco&Negro_to_Color_1](images/BN_C_1.png)
+![Blaco&Negro_to_Color_2](images/BN_C_2.png)
 
 ---
 
-### [Proyecto 2: Fake Faces](https://github.com/argenis-gomez/Fake-Faces)
-#### Descripción:
-Utilizando una arquitectura GAN se creó un Generador de rostros artificiales.
-
-El proyecto incluye una plataforma que permite generar rostros artificiales y descargarlos.
-
-* Se utilizaron 40000 imágenes del dataset CelebA.
-* Las imágenes tienen una resolución de 128x128.
-* El modelo se entrenó por 300 epocas.
-
-![Proyecto 2](images/Proyecto2.png)
-
----
-
-### [Proyecto 3: Clasificador de animales](https://github.com/argenis-gomez/Clasificador-de-animales)
-#### Descripción:
-Utilizando una arquitectura EfficientNetB0 se desarrolló un clasificador de animales.
-
-Se creó una plataforma que permite cargar imágenes de animales y clasificarlas. La plataforma tiene un sistema de feedback que permite al usuario verificar si la imagen fue clasificada correctamente.
-
-* El clasificador funciona con 10 tipos de animales (Perros, Gatos, Mariposas, Ardillas, Arañas, Vacas, Elefantes, Gallinas, Ovejas y Caballos).
-* La idea detrás del mecanismo de feedback es guardar las imágenes dadas por el usuario con sus respectivas etiquetas para mejorar el modelo posteriormente.
-
-![Proyecto 3](images/Proyecto3.png)
-
----
-
-### [Proyecto 4: Traductor](https://github.com/argenis-gomez/Traductor)
+### [Traductor](https://github.com/argenis-gomez/Traductor)
 #### Descripción:
 Utilizando Transformes se desarrolló un traductor de inglés a español.
 
@@ -68,21 +48,11 @@ Con Steamlit se creó una plataforma que permite ingresar el texto en inglés y 
 * Al no disponer de suficiente entrenamiento se optó por utilizar un modelo más pequeño que el original.
 * El modelo solo fue entrenado por 20 épocas, por lo tanto aún tiene un margen de mejora.
 
-![Proyecto 4](images/Proyecto4.png)
+![Traductor](images/Traductor.png)
 
 ---
 
-### [Proyecto 5: Clasificador de tweets](https://github.com/argenis-gomez/Clasificador-de-Tweets)
-#### Descripción:
-Utilizando Conv1D se desarrolló un clasificador del sentimiento de Tweets en inglés.
-
-Se creó una plataforma con Streamlit que permite ingresar el Tweet en inglés y luego clasificar el sentimiento.
-
-![Proyecto 5](images/Proyecto5.png)
-
----
-
-### [Proyecto 6: Clasificador de motos](https://github.com/argenis-gomez/Clasificador-de-motos)
+### [Clasificador de motos](https://github.com/argenis-gomez/Clasificador-de-motos)
 #### Descripción:
 Utilizando una arquitectura Xception se desarrolló un clasificador de motos.
 
@@ -93,22 +63,59 @@ Se creó una plataforma en Streamlit que permite cargar imágenes y clasificarla
 * Utilizando Keras-Tuner se obtuvieron los mejores parámetros para entrenar el modelo.
 * El modelo principal tiene una precisión del 93% en imágenes nuevas.
 
-![Proyecto 6](images/Proyecto6.png)
+![Motos](images/Motos.png)
 
 ---
 
-### [Proyecto 7: Assault](https://github.com/argenis-gomez/Assault)
+### [Assault](https://github.com/argenis-gomez/Assault)
 #### Descripción:
 Usando DQN, se entrenó un agente que aprendió a jugar el juego de Atari 2600 Assault.
 
 * El agente fue entrenado por 100 episodios.
 * El agente es capaz de alcanzar una recompensa de 400+.
 
-![Proyecto 7](images/Proyecto7.gif)
+![Assault](images/Assault.gif)
 
 ---
 
-### [Proyecto 8: Heart attacks prediction](https://github.com/argenis-gomez/Heart-attacks-prediction.git)
+### [Clasificador de animales](https://github.com/argenis-gomez/Clasificador-de-animales)
+#### Descripción:
+Utilizando una arquitectura EfficientNetB0 se desarrolló un clasificador de animales.
+
+Se creó una plataforma que permite cargar imágenes de animales y clasificarlas. La plataforma tiene un sistema de feedback que permite al usuario verificar si la imagen fue clasificada correctamente.
+
+* El clasificador funciona con 10 tipos de animales (Perros, Gatos, Mariposas, Ardillas, Arañas, Vacas, Elefantes, Gallinas, Ovejas y Caballos).
+* La idea detrás del mecanismo de feedback es guardar las imágenes dadas por el usuario con sus respectivas etiquetas para mejorar el modelo posteriormente.
+
+![Clasificador de animales](images/Animale.png)
+
+---
+
+### [Clasificador de tweets](https://github.com/argenis-gomez/Clasificador-de-Tweets)
+#### Descripción:
+Utilizando Conv1D se desarrolló un clasificador del sentimiento de Tweets en inglés.
+
+Se creó una plataforma con Streamlit que permite ingresar el Tweet en inglés y luego clasificar el sentimiento.
+
+![Tweets](images/Tweets.png)
+
+---
+
+### [Fake Faces](https://github.com/argenis-gomez/Fake-Faces)
+#### Descripción:
+Utilizando una arquitectura GAN se creó un Generador de rostros artificiales.
+
+El proyecto incluye una plataforma que permite generar rostros artificiales y descargarlos.
+
+* Se utilizaron 40000 imágenes del dataset CelebA.
+* Las imágenes tienen una resolución de 128x128.
+* El modelo se entrenó por 300 epocas.
+
+![FakeFaces](images/FakeFaces.png)
+
+---
+
+### [Heart attacks prediction](https://github.com/argenis-gomez/Heart-attacks-prediction.git)
 #### Descripción:
 
 Se realizó el análisis exploratorio de los datos, para daterterminar los principales motivos de un ataque al corazón.
@@ -117,9 +124,9 @@ Se realizó el análisis exploratorio de los datos, para daterterminar los princ
 * El modelo alcanzó el 90% de precisón sobre el dataset de pruebas.
 
 ##### Variables discretas
-![Proyecto 8](images/Proyecto8.png)
+![Heart_1](images/Heart_1.png)
 ##### Variables continuas
-![Proyecto 8](images/Proyecto8_2.png)
+![Heart_2](images/Heart_2.png)
 
 ---
 ## Contacto
